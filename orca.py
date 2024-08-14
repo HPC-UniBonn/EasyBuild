@@ -26,6 +26,8 @@
 EasyBuild support for ORCA, implemented as an easyblock
 
 @author: Alex Domingo (Vrije Universiteit Brussel)
+
+This orca.py easyblock file of ORCA.6.0.0 is created by the HPC Team at the university of Bonn, based on the orca.py easyblock file of ORCA.5.0.0
 """
 import glob
 import os
